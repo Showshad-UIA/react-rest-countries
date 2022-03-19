@@ -1,0 +1,10 @@
+.population {
+	border: solid 2px rgb(0, 140, 255);
+	margin: 5px;
+	border-radius: 5px;
+	padding: 5px;
+	background: bisque;
+}
+.country {
+	background: pink;
+}
